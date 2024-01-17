@@ -46,6 +46,10 @@ table {
 	border-spacing: 0;
 }
 
+ul li a.active {
+	text-decoration: line-through;
+	color: #C5283D;
+}
 
 /* --- Common Styles ---*/
 
